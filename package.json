@@ -1,0 +1,14 @@
+{
+  "name": "azure-function-helloworld",
+  "version": "1.0.0",
+  "description": "Azure Hello World Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.0.0"
+  }
+}
